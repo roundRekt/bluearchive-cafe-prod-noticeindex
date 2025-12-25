@@ -11,8 +11,5 @@
 			"binding": "NOTICEINDEX",
 			"id": "5011cc6edebc4aa69618fd744690e22e"
 		}
-	],
-  "triggers": {
-    "crons": ["*/5 * * * *"]
-  }
+	]
 }
